@@ -1,0 +1,3 @@
+delphi-httppool is a HTTP Pool class written in Delphi using OmniThreadLib and Synapse HTTP components.
+
+Personally I have not found many multi-threaded http libraries written in Delphi. When I got myself back to Delphi programs again after a few years writing PHP. I found great needs to process http requests asynchronously. So I put up OmniThreadLib and Synapse components together and produced this.
